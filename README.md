@@ -1,4 +1,4 @@
-### Hi there, I'm Ahmed! I'm a self-taught software engineer with a combination of education and experience. 👋
+### Hi 👋, I'm Ahmed! I'm a self-taught software engineer with a combination of education and experience.
 <br>
 <ul>
   <li><p>🔭 I’m currently working on my technical and problem-solving skills.</p></li>
