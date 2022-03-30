@@ -1,13 +1,15 @@
 ### Hi there, I'm Ahmed. I'm a self-taught software engineer with a combination of education and experience. 👋
-
-<p>🔭 I’m currently working on my techinal and problem-solving skills.</p>
-<p>🌱 I’m currently learning CI/CD pipelines, Docker & Kubernetes.</p>
-<p>🤝 I’m looking to collaborate on  ....</p>
-<p>💬 Ask me about about Databases, Source Control & OOP.</p>
-<p>📧 How to reach me: ahmed-rooble@hotmail.com</p>
-
+<br>
+<ul>
+  <li><p>🔭 I’m currently working on my techinal and problem-solving skills.</p></li>
+  <li><p>🌱 I’m currently learning CI/CD pipelines, Docker & Kubernetes.</p></li>
+  <li><p>🤝 I’m looking to collaborate on  ....</p></li>
+  <li><p>💬 Ask me about about Databases, Source Control & OOP.</p></li>
+  <li><p>📧 How to reach me: ahmed-rooble@hotmail.com</p></li>
+<ul>
+<br>
 <p> 🔥 My Hobbies: I love watching Tennis, Basketball & Football. I also enjoy trying new foods from different cultures.</p>
-
+<br>
 <h4>👏 Connect With Me!</h4>
 <a href="https://linkedin.com/arooble">
 <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="300px"></img></a>
