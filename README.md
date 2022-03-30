@@ -45,3 +45,11 @@
         <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" height="40" width="75">
         <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" height="40" width="75">
 </div>
+ <br>
+    <h3>📚 Education</h3>
+    <div class="wrapper">
+        <img src="https://camo.githubusercontent.com/4ac8a7a42c5f8d85371c33b1502a0a8aaec1cd359573ee6723c5d8351595b0a6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5564656d792d4134333546303f7374796c653d666f722d7468652d6261646765266c6f676f3d5564656d79266c6f676f436f6c6f723d7768697465" height="40" width="75">
+        <img src="https://camo.githubusercontent.com/043a18274b7565d5eaf0645e255a98ff44b8b55156fbbb2145560ed149ad45e1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436f6465636164656d792d4646463045353f7374796c653d666f722d7468652d6261646765266c6f676f3d636f6465636164656d79266c6f676f436f6c6f723d314632343341" height="40" width="75">
+        <img src="https://camo.githubusercontent.com/387b0577360959651f848bb2a3c54ed5eda1815f0cb0f67ebb08ac72e5ebead1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f46726565636f646563616d702d2532333132332e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d66726565636f646563616d70266c6f676f436f6c6f723d677265656e" height="40" width="75">
+        <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="40" width="75">
+    </div>
