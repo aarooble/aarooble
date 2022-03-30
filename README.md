@@ -1,4 +1,4 @@
-### Hi there, I'm Ahmed. I'm a self-taught software engineer with a combination of education and experience. 👋
+### Hi there, I'm Ahmed! I'm a self-taught software engineer with a combination of education and experience. 👋
 <br>
 <ul>
   <li><p>🔭 I’m currently working on my techinal and problem-solving skills.</p></li>
@@ -7,8 +7,8 @@
   <li><p>💬 Ask me about about Databases, Source Control & OOP.</p></li>
   <li><p>📧 How to reach me: ahmed-rooble@hotmail.com</p></li>
 <ul>
-<br>
-<p> 🔥 My Hobbies: I love watching Tennis, Basketball & Football. I also enjoy trying new foods from different cultures.</p>
+
+<p>🔥 My Hobbies: I love watching Tennis, Basketball & Football. I also enjoy trying new foods from different cultures.</p>
 <br>
 <h4>👏 Connect With Me!</h4>
 <a href="https://linkedin.com/arooble">
