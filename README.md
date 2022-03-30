@@ -5,7 +5,7 @@
   <li><p>🌱 I’m currently learning CI/CD pipelines, Docker & Kubernetes.</p></li>
   <li><p>🤝 I’m looking to collaborate on  ....</p></li>
   <li><p>💬 Ask me about about Databases, Source Control & OOP.</p></li>
-  <li><p>📧 How to reach me: ahmedartanrooble@gmail.com</p></li>
+  <li><p>📧 How to reach me: <a href="mailto:ahmedartanrooble@gmail.com">ahmedartanrooble@gmail.com</p></li>
   <br>
 <ul>
         <li><p>🔥 My Hobbies: I enjoy learning new languages, cooking and fantasy football.</p></li>
@@ -14,10 +14,10 @@
 <br>
 <h3>👏 Let's Connect!</h3>
       <a href="https://linkedin.com/arooble">
-      <img src="images-3/linkedin.png" width="30px" height="35px" style="float: left; padding: 15px;"></img></a>
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="30px" height="35px" style="float: left; padding: 15px;"></img></a>
       <br>
   <a href="mailto:ahmedartanrooble@gmail.com">
-      <img src="images-3/gmail.png" width="30px" height="30px"></img></a>
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="30px" height="30px"></img></a>
       <br>
     
 <h3>💻 Technical Skills</h3>
