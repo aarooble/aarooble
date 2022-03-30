@@ -3,9 +3,9 @@
 <ul>
   <li><p>🔭 I’m currently working on my techinal and problem-solving skills.</p></li>
   <li><p>🌱 I’m currently learning CI/CD pipelines, Docker & Kubernetes.</p></li>
-  <li><p>🤝 I’m looking to collaborate on  ....</p></li>
+  <li><p>🤝 I’m looking to collaborate on Software, Web & Cloud based projects.  </p></li>
   <li><p>💬 Ask me about about Databases, Source Control & OOP.</p></li>
-  <li><p>📧 How to reach me: <a href="mailto:ahmedartanrooble@gmail.com">ahmedartanrooble@gmail.com</p></li>
+  <li><p>📧 How to reach me: <a href="mailto:ahmedartanrooble@gmail.com">ahmedartanrooble@gmail.com</a></p></li>
   <br>
 <ul>
         <li><p>🔥 My Hobbies: I enjoy learning new languages, cooking and fantasy football.</p></li>
