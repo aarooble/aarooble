@@ -9,7 +9,6 @@
   <br>
 <ul>
         <li><p>🔥 My Hobbies: I enjoy learning new languages, cooking and fantasy football.</p></li>
-        <li><p>⚡️ Fun Fact:  I've travelled to the United Kingdom 10+ times in a row during my adolsecent years.</p></li>
 </ul>
 <br>
 <h3>👏 Let's Connect!</h3>
