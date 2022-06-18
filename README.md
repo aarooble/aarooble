@@ -5,10 +5,12 @@
   <li><p>🌱 I’m currently learning CI/CD pipelines, Docker & Kubernetes.</p></li>
   <li><p>🤝 I’m looking to collaborate on Software, Web & Cloud based projects.  </p></li>
   <li><p>💬 Ask me about Databases, Source Control & OOP.</p></li>
+  <li><p>👨🏾‍💻 My Tech Stack: Javascript, Java, Spring, SQL & REST API.</p></li>
   <li><p>📧 How to reach me: <a href="mailto:ahmedartanrooble@gmail.com">ahmedartanrooble@gmail.com</a></p></li>
   <br>
 <ul>
         <li><p>🔥 My Hobbies: I enjoy playing tennis, travelling & learning new programming languages.</p></li>
+  
 </ul>
 <br>
 <h3>👏 Let's Connect!</h3>
