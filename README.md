@@ -1,4 +1,4 @@
-### Hi 👋, I'm Ahmed! I'm a software engineer with 1.5 years of programming experience.
+### Hi 👋,  I'm Ahmed! I'm a Full Stack Software Engineer with 1.5 years of programming experience.
 <br>
 <ul>
   <li><p>🔭 I’m currently working on my technical and problem-solving skills.</p></li>
