@@ -9,7 +9,7 @@
   <li><p>📧 How to reach me: <a href="mailto:ahmedartanrooble@gmail.com">ahmedartanrooble@gmail.com</a></p></li>
   <br>
 <ul>
-        <li><p>🔥 My Hobbies: I enjoy playing tennis, travelling & learning new programming languages.</p></li>
+        <li><p>🔥 My Hobbies: I enjoy fantasy football, travelling & learning new programming languages.</p></li>
   
 </ul>
 <br>
