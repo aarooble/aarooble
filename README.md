@@ -1,11 +1,11 @@
-### Hi 👋,  I'm Ahmed! I'm a Full Stack Software Engineer with 1.5 years of programming experience.
+### Hi 👋,  I'm Ahmed! I'm a Backend Software Engineer with 2+ years of programming experience.
 <br>
 <ul>
   <li><p>🔭 I’m currently working on my technical and problem-solving skills.</p></li>
   <li><p>🌱 I’m currently learning CI/CD pipelines, Docker & Kubernetes.</p></li>
   <li><p>🤝 I’m looking to collaborate on Software, Web & Cloud based projects.  </p></li>
   <li><p>💬 Ask me about Databases, Source Control & OOP.</p></li>
-  <li><p>👨🏾‍💻 My Tech Stack: Javascript, Java, Spring Boot, SQL & REST API.</p></li>
+  <li><p>👨🏾‍💻 My Tech Stack: Python, SQL, Javascript, Java & REST API.</p></li>
   <li><p>📧 How to reach me: <a href="mailto:ahmedartanrooble@gmail.com">ahmedartanrooble@gmail.com</a></p></li>
   <br>
 <ul>
