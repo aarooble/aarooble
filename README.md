@@ -6,7 +6,6 @@
   <li><p>🤝 I’m looking to collaborate on Software, Web & Cloud based projects.  </p></li>
   <li><p>💬 Ask me about Databases, Source Control & OOP.</p></li>
   <li><p>👨🏾‍💻 My Tech Stack: Python, SQL, Javascript, Java & REST API.</p></li>
-  <li><p>📧 How to reach me: <a href="mailto:ahmedartanrooble@gmail.com">ahmedartanrooble@gmail.com</a></p></li>
   <br>
 
       
