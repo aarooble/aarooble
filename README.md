@@ -1,4 +1,4 @@
-### Hi 👋🏾,  I'm Ahmed! I'm a Junior Data Analyst.
+### Hi 👋🏾,  I'm Ahmed! I'm a Junior Data Analyst
 <br>
 <ul>
   <li><p>🔭 I’m currently honing my technical and problem-solving skills to enhance my proficiency in data analysis and interpretation. </p></li>
